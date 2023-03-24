@@ -1,0 +1,15 @@
+rootProject.name = "TPhone-RTC-Android"
+include ':app'
+
+include ':tphonertcsdk'
+include ':tiphonelib'
+
+//include ':onlineservicesdk'
+//
+//include ':threepart'
+//include ':mqtt'
+//include ':spanhtml'
+//include ':imagepicker'
+//include ':oswidget'
+//include ':oslib'
+//include ':oskit'
