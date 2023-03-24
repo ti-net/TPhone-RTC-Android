@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file("tphone_rtc_${versionName}_release.aar"))
