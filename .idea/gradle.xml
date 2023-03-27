@@ -11,8 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/tiphonelib" />
-            <option value="$PROJECT_DIR$/tiphonesdk" />
+            <option value="$PROJECT_DIR$/tphonertcsdk" />
           </set>
         </option>
       </GradleProjectSettings>
