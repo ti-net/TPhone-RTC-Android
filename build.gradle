@@ -45,7 +45,7 @@ task clean(type: Delete) {
 
 ext {
 
-    versionName = '1.1.9'
+    versionName = '1.2.0'
 
     groupId = 'com.github.ti-net'
     artifactId = 'TPhone-RTC-Android'
