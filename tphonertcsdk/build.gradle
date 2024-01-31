@@ -63,7 +63,7 @@ dependencies {
     api "com.squareup.retrofit2:retrofit:2.9.0"
 
     // TiCloudRtc SDK
-    implementation "com.github.ti-net:TiCloud-RTC-Android:3.7.0"
+    implementation "com.github.ti-net:TiCloud-RTC-Android:3.8.3"
 
     embed project(path: ':tiphonelib', configuration: 'default')
 
