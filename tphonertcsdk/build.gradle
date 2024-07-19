@@ -65,6 +65,10 @@ dependencies {
     // TiCloudRtc SDK
     implementation "com.github.ti-net:TiCloud-RTC-Android:4.2.5"
 
+    // 观测云
+    api("com.cloudcare.ft.mobile.sdk.tracker.agent:ft-sdk:1.5.0")
+    api("com.cloudcare.ft.mobile.sdk.tracker.agent:ft-native:1.1.0")
+
     embed project(path: ':tiphonelib', configuration: 'default')
 
 }
